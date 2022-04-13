@@ -1,0 +1,38 @@
+_repo: Obras-completas-de-Figaro-Tomo-I_67676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larra, Mariano José de
+    aliases:
+    - De Larra, Mariano José
+    - Larra, José de
+    - Larra, Mariano Jose de
+    birthdate: 1809
+    deathdate: 1837
+    gutenberg_agent_id: '35308'
+    url: http://www.gutenberg.org/2009/agents/35308
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Mariano_Jos%C3%A9_de_Larra
+    - https://en.wikipedia.org/wiki/Mariano_Jos%C3%A9_de_Larra
+description: ''
+gutenberg_issued: '2022-03-21'
+identifiers:
+  gutenberg: '67676'
+language: es
+pgterms:marc904: https://archive.org/details/obrascompletasde01larruoft/page/n10/mode/2up
+pgterms:marc905: 20200330123506larra
+pgterms:marc906: '1889'
+pgterms:marc907: FR
+production_note: Andrés V. Galia, Thiers and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: France :Garnier,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Obras completas de Figaro, Tomo I
+url: http://www.gutenberg.org/ebooks/67676
